@@ -10,3 +10,4 @@
 [10] W. He, Z. Jiang, T. Xiao, Z. Xu, und Y. Li, „A Survey on Uncertainty Quantification Methods for Deep Learning“, 20. Januar 2025, arXiv: arXiv:2302.13425. doi: 10.48550/arXiv.2302.13425.
 [11]  S. Shafaei, S. Kugele, M. H. Osman, und A. Knoll, „Uncertainty in Machine Learning: A Safety Perspective on Autonomous Driving“, in Developments in Language Theory, Bd. 11088, M. Hoshi und S. Seki, Hrsg., in Lecture Notes in Computer Science, vol. 11088. , Cham: Springer International Publishing, 2018, S. 458–464. doi: 10.1007/978-3-319-99229-7_39.
 [12] H. Späth and Z. Daw, "Towards Detecting Unintended Behaviors in Machine Learning Algorithms," 2024 AIAA DATC/IEEE 43rd Digital Avionics Systems Conference (DASC), San Diego, CA, USA, 2024, pp. 1-10, doi: 10.1109/DASC62030.2024.10749477.
+[13] Ils-Stuttgart, Ils-Stuttgart/scenairo, GitHub. Available at: https://github.com/ils-stuttgart/ScenAIro/tree/main (Accessed: 08 April 2025). 
